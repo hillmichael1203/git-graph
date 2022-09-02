@@ -9,3 +9,5 @@
 9. Branched initial commit 0 into bug-fix branch
 10. Updated STEPS.md
 11. Commit 3
+12. Updated STEPS.md
+13. Commit 4
