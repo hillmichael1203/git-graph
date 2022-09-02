@@ -17,3 +17,5 @@
 17. Branched commit 4 on bug-fix into bug-fix-experimental branch
 18. Updated STEPS.md
 19. Commit 7 on bug-fix
+20. Updated Steps.md
+21. Commit 8 on bug-fix
