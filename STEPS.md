@@ -17,9 +17,11 @@
 17. Branched commit 4 on bug-fix into bug-fix-experimental branch
 18. Updated STEPS.md
 19. Commit 7 on bug-fix-experimental
-20. Updated Steps.md
+20. Updated STEPS.md
 21. Commit 8 on bug-fix-experimental
-22. Updated Steps.md
+22. Updated STEPS.md
 23. Commit 9 on bug-fix-experimental
-24. Updated Steps.md
+24. Updated STEPS.md
 25. Commit 10 on main
+26. Merged Commit 6 from bug-fix with Commit 9 from bug-fix-experimental into bug-fix Commit 11
+27. Updated STEPS.md
